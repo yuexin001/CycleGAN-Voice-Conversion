@@ -20,18 +20,6 @@
 
 <br/>
 
-### Dependencies
-
-tensorflow 1.14.0
-
-PyWorld 0.2.8
-
-numpy 1.15.4
-
-librosa 0.5.1
-
-<br/>
-
 ### File Structure
 
 ```bash
